@@ -23,3 +23,12 @@ It’s a reflection of my learning path and experiments as I grow as a developer
 ## Hello.py - Example Project
 name = input("Enter your name: ")
 print(f"✨ Hello {name}, welcome to my first GitHub repo! ✨")
+
+## Wedding - HTML
+https://github.com/Pandre06/Wedding-HTML
+
+## Sales - Data - Analysis - Python
+https://github.com/Pandre06/Sales-Data-Analysis-Python
+
+## MyRead - Frontend
+https://github.com/Pandre06/MyRead-Frontend
