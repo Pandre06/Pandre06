@@ -10,7 +10,8 @@ It’s a reflection of my learning path and experiments as I grow as a developer
 - Numpy, Pandas
 - SQL 
 - HTML & CSS
-- Big Data  
+- Big Data
+- Data Visualization
 
 ## What You’ll Find Here 
 - Plans for upcoming projects
@@ -32,3 +33,6 @@ https://github.com/Pandre06/Sales-Data-Analysis-Python
 
 ## MyRead - Frontend
 https://github.com/Pandre06/MyRead-Frontend
+
+## UE - WebPage
+https://github.com/Pandre06/UE-Webpage
