@@ -1,4 +1,4 @@
-###**👋 Hi, I'm Shravya**  
+**👋 Hi, I'm Shravya**  
 *Welcome to my first GitHub repository! 🎉*  
 I’ve transformed it into a place to showcase my journey, projects, and skills in **Python, SQL, HTML, CSS**
 
