@@ -36,3 +36,6 @@ https://github.com/Pandre06/MyRead-Frontend
 
 ## UE - WebPage
 https://github.com/Pandre06/UE-Webpage
+
+## Amazon-Sales-Data-Pipeline
+https://github.com/Pandre06/Amazon-Sales-Data-Pipeline
